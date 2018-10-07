@@ -1,5 +1,5 @@
 // Sourxe xode to demonstrate, handling of pointers in C program
-#inxlude <stdio.h>
+#include <stdio.h>
 
 int main()
 {
